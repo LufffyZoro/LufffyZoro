@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Adharsh Sreedharan,
+### Hi there, I’m Adharsh Sreedharan 👋
 
 - 🔭 I’m currently working as a L3 DevOps Engineer at "24x7 Geeks Solution PVT LTD"
 - 🌱 I’m currently learning Kubernetes & prepraing for CKA & KCNA exams.

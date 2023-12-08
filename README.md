@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning Kubernetes & prepraing for CKA & KCNA exams.
 - 👯 I’m looking to collaborate on OpenSource.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
